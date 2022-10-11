@@ -1,1 +1,2 @@
-Const a = 2;
+const a = 2;
+var b = 3;
